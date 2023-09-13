@@ -1,0 +1,4 @@
+[submodule "atividade2"]
+	path = atividade2
+	url = https://github.com/SilvaViniF/atividade2
+	branch = master
